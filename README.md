@@ -15,5 +15,3 @@ A data engineering pipeline that extracts, transforms, and loads Reddit data usi
 - Docker Engine (v20.10+)
 - Docker Compose (v1.29+)
 - Reddit API credentials (create at [Reddit Apps](https://www.reddit.com/prefs/apps))
-
-## Project Structure
